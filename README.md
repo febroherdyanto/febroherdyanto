@@ -3,6 +3,12 @@
 ![Monash UAS](https://raw.githubusercontent.com/febroherdyanto/febroherdyanto/master/images/Alwin.svg)-->
 
 <p align="center">
+  <h1 align="center">Hi, I'm Febro Herdyanto 👋 <br>
+      I'm a 🚀 IT Enthusiasm 🚀</h1>
+</p>
+
+
+<p align="center">
     <a href="https://github.com/febroherdyanto" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@febroherdyanto-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://febroherdyanto.id" target="_blank"><img alt="Website" src="https://img.shields.io/website?label=website&logo=website&style=flat-square&up_color=blule&up_message=febroherdyanto.id&url=https%3A%2F%2Ffebroherdyanto.id"></a>
     <a href="https://www.linkedin.com/in/febroherdyanto/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
